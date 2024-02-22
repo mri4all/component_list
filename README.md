@@ -14,7 +14,7 @@
 </p>
 
 > [!NOTE]
-> Costs for 3D-printing all needed parts are signficiant (~ $8k)
+> Costs for 3D-printing of all needed parts are signficiant (~ $8k)
 
 
 ## Magnet
@@ -48,6 +48,7 @@
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/84726ad8-7dd0-42ff-8bb5-e409d6d0466c" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/854430f9-f303-45c6-9066-cc83c0732486" width="400"/>
 </p>
 
 ## Gradients
@@ -92,7 +93,7 @@
   <img src="https://github.com/mri4all/components_list/assets/35747793/e63d1921-82c6-438d-a4ed-20d046895960" width="400"/>
 </p>
 <p align="left">
-  <img src="https://github.com/mri4all/components_list/assets/35747793/e8a538ec-3b5b-4282-b6aa-6df5ecbd8878" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e8a538ec-3b5b-4282-b6aa-6df5ecbd8878" width="600"/>
 </p>
 
 
