@@ -29,7 +29,7 @@
 
 ## Gradients
 
-* 3D-printed holders
+* 3D-printed wire holders with imprints
 * Enameled copper wire for gradients (TODO: add specs)
 * Superglue, epoxy, Kapton tape
 * Gradient Power Amplifier GPA-FHDO (https://github.com/menkueclab/GPA-FHDO)
