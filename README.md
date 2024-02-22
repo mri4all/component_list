@@ -20,7 +20,7 @@
 ## Magnet
 
 * 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
-* 300x N40UH shim magnets, 3mm (TODO: add supplier)
+* 300x N40UH magnets for passive shim, 3mm (TODO: add supplier)
 * Plastic screws to combine magnet rings (TODO: add screw types)
   
 <p align="left">
@@ -30,6 +30,10 @@
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/88e19d85-9305-4a5a-8d92-bb1649c18696" width="400"/>
   <img src="https://github.com/mri4all/components_list/assets/35747793/feb0cdd1-13a2-406c-8e93-3770ce2cb8c4" width="400"/>
+</p>
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/3d3e63a5-d377-44fc-967c-217351c069c9" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/9a9abea3-703d-49f6-8a6e-7233aa9375e8" width="400"/>
 </p>
 
 ## Field Mapper
