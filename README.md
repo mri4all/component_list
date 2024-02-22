@@ -59,7 +59,7 @@
 * DAC-Hat for Red Pitaya board (TODO: add source)
 * Powersupply for GPA, needs DC 15V and 40A (e.g. Rohde & Schwarz HMP4040 (~ 3k) or TekPower TP1560E DC for ~ $400)
 * DC feedthrough capacitor for filtering gradient waveforms (6 x Schaffner FN7563-63-M6, https://www.mouser.com/ProductDetail/Schaffner/FN7563-63-M6?qs=m2s1G0dHrOR4GHqM%252B%252BtiCA%3D%3D)
-* Holder for filter capacitors
+* Holder for filter capacitors (e.g., fabricated from aluminium plate)
 * Depending on local power quality: Power conditioner (e.g., Furman Elite-15i)
 
 <p align="left">
@@ -87,6 +87,13 @@
 
 * Silicone tube & heat exchanger for cooling system (TOOD: add model/specs)
 * Two movable carts for scanner and support hardware (e.g., https://www.amazon.com/Rubbermaid-Commercial-Products-Manufacturing-FG452500BLA/dp/B006O0PMTY/)
+
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e63d1921-82c6-438d-a4ed-20d046895960" width="400"/>
+</p>
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e8a538ec-3b5b-4282-b6aa-6df5ecbd8878" width="400"/>
+</p>
 
 
 
