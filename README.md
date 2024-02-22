@@ -6,7 +6,7 @@
 ## Housing
 
 <p align="center">
-  <img src="[profile/render_image.jpg](https://github.com/mri4all/components_list/assets/35747793/cac7e881-dc4a-4fe2-9eb4-8a4c13933e37)" width="550"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/cac7e881-dc4a-4fe2-9eb4-8a4c13933e37" width="550"/>
 </p>
 
 * 3D-printed parts from provided STL model (TODO: Add link to 3D model)
