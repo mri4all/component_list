@@ -1,4 +1,4 @@
-# Components List for MRI4ALL Zeugmatron Z1
+# Component List for MRI4ALL Zeugmatron Z1
 
 > [!IMPORTANT]
 > The list of components is still being updated and incomplete. We will also try to add supplier information.
@@ -6,20 +6,21 @@
 ## Housing
 
 * 3D-printed parts from provided STL model (TODO: Add link to 3D model)
-* Requires high accuracy 3D printer, e.g. Statasys F370
- 
-> [!NOTE]
-> Costs for 3D-printing all needed parts are signficiant (~ $8k)
+* Requires high accuracy 3D printer (e.g., Statasys F370)
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/cac7e881-dc4a-4fe2-9eb4-8a4c13933e37" width="400"/>
   <img src="https://github.com/mri4all/components_list/assets/35747793/9f6bdfad-6c19-41ab-80f4-558fb001209d" width="400"/>  
 </p>
 
+> [!NOTE]
+> Costs for 3D-printing all needed parts are signficiant (~ $8k)
+
+
 ## Magnet
 
-* 1000 N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
-* 300 N40UH shim magnets, 3mm (TODO: add supplier)
+* 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
+* 300x N40UH shim magnets, 3mm (TODO: add supplier)
 * Plastic screws to combine magnet rings (TODO: add screw types)
 
 <p align="left">
@@ -27,8 +28,8 @@
 </p>
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/88e19d85-9305-4a5a-8d92-bb1649c18696" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/feb0cdd1-13a2-406c-8e93-3770ce2cb8c4" width="400"/>
 </p>
-
 
 ## Field Mapper
 
