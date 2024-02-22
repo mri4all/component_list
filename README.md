@@ -22,6 +22,14 @@
 * 300 N40UH shim magnets, 3mm (TODO: add supplier)
 * Plastic screws to combine magnet rings (TODO: add screw types)
 
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/996bb5ee-00f0-4bbd-896e-b73a58938859" width="400"/>
+</p>
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/88e19d85-9305-4a5a-8d92-bb1649c18696" width="400"/>
+</p>
+
+
 ## Field Mapper
 
 * 3D CNC rail set up (3x 30 cm linear CNC stages attached perpendicularly, brand: FUYU, source: Amazon)
@@ -33,7 +41,7 @@
 * Field mapping software (https://github.com/mri4all/field_mapper_3DFM)
 
 <p align="left">
-  <img src="https://github.com/mri4all/components_list/assets/35747793/84726ad8-7dd0-42ff-8bb5-e409d6d0466c" width="600"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/84726ad8-7dd0-42ff-8bb5-e409d6d0466c" width="400"/>
 </p>
 
 ## Gradients
@@ -52,7 +60,7 @@
   <img src="https://github.com/mri4all/components_list/assets/35747793/09b2ef33-f45e-484e-b411-ba685eaf09b8" width="400"/>
 </p>
 <p align="left">
-  <img src="https://github.com/mri4all/components_list/assets/35747793/28d073ed-d90e-4a1e-b7e4-4da90f7ea7c7" width="800"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/28d073ed-d90e-4a1e-b7e4-4da90f7ea7c7" width="600"/>
 </p>
   
 ## RF Hardware
