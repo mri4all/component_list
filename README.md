@@ -5,8 +5,9 @@
 
 ## Housing
 
-![image](https://github.com/mri4all/components_list/assets/35747793/cac7e881-dc4a-4fe2-9eb4-8a4c13933e37)
-
+<p align="center">
+  <img src="[profile/render_image.jpg](https://github.com/mri4all/components_list/assets/35747793/cac7e881-dc4a-4fe2-9eb4-8a4c13933e37)" width="550"/>
+</p>
 
 * 3D-printed parts from provided STL model (TODO: Add link to 3D model)
 * Requires high accuracy 3D printer, e.g. Statasys F370
