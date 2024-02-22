@@ -32,6 +32,10 @@
 * Control computer (Ubuntu 20.04 / Windows 10 or 11)
 * Field mapping software (https://github.com/mri4all/field_mapper_3DFM)
 
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/84726ad8-7dd0-42ff-8bb5-e409d6d0466c" width="600"/>
+</p>
+
 ## Gradients
 
 * 3D-printed wire holders with imprints
@@ -43,6 +47,13 @@
 * DC feedthrough capacitor for filtering gradient waveforms (6 x Schaffner FN7563-63-M6, https://www.mouser.com/ProductDetail/Schaffner/FN7563-63-M6?qs=m2s1G0dHrOR4GHqM%252B%252BtiCA%3D%3D)
 * Holder for filter capacitors
 * Depending on local power quality: Power conditioner (e.g., Furman Elite-15i)
+
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/09b2ef33-f45e-484e-b411-ba685eaf09b8" width="400"/>
+</p>
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/28d073ed-d90e-4a1e-b7e4-4da90f7ea7c7" width="800"/>
+</p>
   
 ## RF Hardware
 
