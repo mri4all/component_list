@@ -22,9 +22,10 @@
 * 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
 * 300x N40UH shim magnets, 3mm (TODO: add supplier)
 * Plastic screws to combine magnet rings (TODO: add screw types)
-
+  
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/996bb5ee-00f0-4bbd-896e-b73a58938859" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/95addc5c-602d-4bbb-af80-e593bd52f85f" width="400"/>
 </p>
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/88e19d85-9305-4a5a-8d92-bb1649c18696" width="400"/>
