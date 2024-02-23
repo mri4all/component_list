@@ -91,7 +91,7 @@
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/5d7eab24-2707-45c4-a8e1-11afe97e9c74" width="300"/>
-  <img src="https://github.com/mri4all/components_list/assets/35747793/e95e4b5a-4483-4889-9770-469fdcf3297e" width="300"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e95e4b5a-4483-4889-9770-469fdcf3297e" width="500"/>
 </p>
 
 ## Other
