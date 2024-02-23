@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > The list of components is still being updated and incomplete. We will also try to add supplier information.
 
-## Housing
+## Housing and Ringformer
 
 * 3D-printed parts from provided STL model (TODO: Add link to 3D model)
 * Requires high accuracy 3D printer (e.g., Statasys F370)
@@ -77,12 +77,21 @@
 * Power supply for RF preamp DC, 15V 2A (e.g., Agilent E3610A)
 * RF power amplifier (TODO: add model currently used)
 
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/64d00181-425c-4ddb-a569-3298ee33636d" width="400"/>
+</p>
+
+
 ## Scanner Control
 
 * Red Pitaya SDRLab 122-16 (https://redpitaya.com/product/sdrlab-122-16-standard-kit/)
 * Computer with Ubuntu Linux 22.04 LTS (e.g., Dell Optiplex 7010 Micro)
 * Additional USB ethernet interface to have connections for Red Pitaya and local network
 * Console software (https://github.com/mri4all/console -- see instructions in Wiki)
+
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/5d7eab24-2707-45c4-a8e1-11afe97e9c74" width="400"/>
+</p>
 
 ## Other
 
