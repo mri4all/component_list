@@ -21,7 +21,7 @@
 
 * 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
 * 300x N40UH magnets for passive shim, 3mm (TODO: add supplier)
-* Plastic screws to combine magnet rings (TODO: add screw types)
+* Plastic and brass screws to combine magnet rings and attach housing (TODO: add screw types)
   
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/996bb5ee-00f0-4bbd-896e-b73a58938859" width="400"/>
