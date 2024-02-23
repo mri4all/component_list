@@ -99,11 +99,22 @@
 * Two movable carts for scanner and support hardware (e.g., https://www.amazon.com/Rubbermaid-Commercial-Products-Manufacturing-FG452500BLA/dp/B006O0PMTY/)
 
 <p align="left">
-  <img src="https://github.com/mri4all/components_list/assets/35747793/e63d1921-82c6-438d-a4ed-20d046895960" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e63d1921-82c6-438d-a4ed-20d046895960" width="500"/>
 </p>
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/e8a538ec-3b5b-4282-b6aa-6df5ecbd8878" width="600"/>
 </p>
 
+## Optional: Active Shim with RF Shield
 
+The active shim coil has been built during the hackathon, but has not yet been integrated into the scanner yet.
+
+* 30 active shim coils, mounted on plexiglas cylinder
+* RF shield glued to inside of plexiglas cylinder
+* Controllable 30-channel amplifier for adjusting shim currents
+
+<p align="left">
+  <img src="https://github.com/mri4all/components_list/assets/35747793/e1df3931-0424-451f-8785-89b94413dc9e" width="400"/>
+  <img src="https://github.com/mri4all/components_list/assets/35747793/2efb8808-cb43-49b8-9f9c-94cb8c91d765" width="400"/>
+</p>
 
