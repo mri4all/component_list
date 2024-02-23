@@ -46,7 +46,7 @@
 * Control computer (Ubuntu 20.04 / Windows 10 or 11)
 * Field mapping software (https://github.com/mri4all/field_mapper_3DFM)
 
-<p align="left" style="vertical-align: middle; display: table-cell;">
+<p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/84726ad8-7dd0-42ff-8bb5-e409d6d0466c" width="400"/>
   <img src="https://github.com/mri4all/components_list/assets/35747793/854430f9-f303-45c6-9066-cc83c0732486" width="400"/>
 </p>
