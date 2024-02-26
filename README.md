@@ -38,7 +38,7 @@
 
 ## Field Mapper
 
-* 3D CNC rail set up (3x 30 cm linear CNC stages attached perpendicularly, brand: FUYU, source: Amazon)
+* 3D CNC rail set up (3x 30 cm linear CNC stages attached perpendicularly, brand: FUYU (FSK40F300 B57), stroke: 300mm, accuracy: 0.02 mm, max. horizontal load 25 kg, source: Amazon)
 * Arduino UNO Rev3 (https://store.arduino.cc/usa/arduino-uno-rev3)
 * Arduino gShield (https://synthetos.com/project/grblshield)
 * Hall probe (Metrolab THM1176 used here, USB connection, https://www.metrolab.com/products/thm1176-three-axis-hall-magnetometer/)
