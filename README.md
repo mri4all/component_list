@@ -1,7 +1,7 @@
 # Component List for MRI4ALL Zeugmatron Z1
 
 > [!IMPORTANT]
-> The list of components is still being updated and may not be entirely complete (some components were already exisiting at our lab). Please also check the attached [Excel file](https://github.com/mri4all/component_list/raw/main/i2i%20Hackathon%20MRI4all%202023%20PARTS%20ORDERING.xlsx) for more detailed parts information
+> The list of components is still being updated and may not be entirely complete (some smaller components were spontanously sourced from our lab). Please also check the attached [Excel file](https://github.com/mri4all/component_list/raw/main/i2i%20Hackathon%20MRI4all%202023%20PARTS%20ORDERING.xlsx) for more detailed parts information
 
 ## Housing and Ringformer
 
