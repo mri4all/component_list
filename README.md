@@ -38,7 +38,8 @@
 
 ## Field Mapper
 
-* 3D CNC rail set up (3x 30 cm linear CNC stages attached perpendicularly, brand: FUYU (FSK40F300 B57), stroke: 300mm, accuracy: 0.02 mm, max. horizontal load 25 kg, source: Amazon)
+* 3D CNC rail set up (3x 30 cm linear CNC stages attached perpendicularly, brand: FUYU (FSK40F300 B57), stroke: 300mm, accuracy: 0.02 mm, max. horizontal load 25 kg, source: [Amazon](https://www.amazon.com/dp/B0CG5S1C8T?ref_=cm_sw_r_cp_ud_dp_W659PN8GBHAFCZPM1CT8&th=1))
+* STEPPERONLINE CNC Stepper Motor Driver (3x, source: [Amazon](https://www.amazon.com/dp/B06Y5VPSFN?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_039VHPPJNVF7N5GEGGQP))
 * Arduino UNO Rev3 (https://store.arduino.cc/usa/arduino-uno-rev3)
 * Arduino gShield (https://synthetos.com/project/grblshield)
 * Hall probe (Metrolab THM1176 used here, USB connection, https://www.metrolab.com/products/thm1176-three-axis-hall-magnetometer/)
