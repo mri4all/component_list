@@ -60,7 +60,8 @@
 * Gradient Power Amplifier GPA-FHDO (https://github.com/menkueclab/GPA-FHDO)
 * DAC-Hat for Red Pitaya board (TODO: add source)
 * Powersupply for GPA, needs DC 15V and 40A (e.g. Rohde & Schwarz HMP4040 (~ 3k) or TekPower TP1560E DC for ~ $400)
-* DC feedthrough capacitor for filtering gradient waveforms (6 x Schaffner FN7563-63-M6, https://www.mouser.com/ProductDetail/Schaffner/FN7563-63-M6?qs=m2s1G0dHrOR4GHqM%252B%252BtiCA%3D%3D)
+* DC feedthrough capacitor for filtering gradient waveforms (6x Schaffner FN7563-63-M6, https://www.digikey.com/en/products/detail/schaffner-emc-inc/FN7563-63-M6/1997367)
+* Inductors for filtering gradient waveforms (6x 4044-CPER3231-101MC-ND, https://www.digikey.com/en/products/detail/codaca/CPER3231-101MC/16516449)
 * Holder for filter capacitors (e.g., fabricated from aluminium plate)
 * Depending on local power quality: Power conditioner (e.g., Furman Elite-15i)
 
@@ -100,7 +101,9 @@
 ## Other
 
 * Silicone tube & heat exchanger for cooling system (TOOD: add model/specs)
-* Two movable carts for scanner and support hardware (e.g., https://www.amazon.com/Rubbermaid-Commercial-Products-Manufacturing-FG452500BLA/dp/B006O0PMTY/)
+* Movable cart for scanner and support hardware (e.g., https://www.amazon.com/Rubbermaid-Commercial-Products-Manufacturing-FG452500BLA/dp/B006O0PMTY/)
+* Terminal kit with crimp tool (source: [Digikey](https://www.digikey.com/en/products/detail/eclipse-tools/902-498/13896374?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-13896374_sig-Cj0KCQjwmvSoBhDOARIsAK6aV7h0vI2_v9fqJMmXuV5ySblh5_aOWlClr3i6Wl64B_U2nzzUUBVPsnIaAhvaEALw_wcB&gclid=Cj0KCQjwmvSoBhDOARIsAK6aV7h0vI2_v9fqJMmXuV5ySblh5_aOWlClr3i6Wl64B_U2nzzUUBVPsnIaAhvaEALw_wcB))
+
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/e63d1921-82c6-438d-a4ed-20d046895960" width="500"/>
