@@ -5,7 +5,7 @@
 
 ## Housing and Ringformer
 
-* 3D-printed parts from provided STL model (TODO: Add link to 3D model)
+* 3D-printed parts from provided STL model (https://github.com/mri4all/3d_model)
 * Requires high accuracy 3D printer (e.g., Statasys F370)
 
 <p align="left">
@@ -19,8 +19,8 @@
 
 ## Magnet
 
-* 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (TODO: add supplier)
-* 300x N40UH magnets for passive shim, 3mm (TODO: add supplier)
+* 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (source: BINIC MAGNET Co., https://binicmagnet.com)
+* 300x N40UH magnets for passive shim, 3mm (source: BINIC MAGNET Co., https://binicmagnet.com)
 * Plastic and brass screws to combine magnet rings and attach housing (TODO: add screw types)
   
 <p align="left">
