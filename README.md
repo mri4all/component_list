@@ -73,10 +73,12 @@
   
 ## RF Hardware
 
+* 3D-printed holder with imprint for wire position
 * Litze wire for RF coil (1725/48 AWG, 60 feet, [eBay offer](https://www.ebay.com/itm/155092916268?hash=item241c42182c:g:oiEAAOSwL1tj5VZF&amdata%5B%E2%80%A6%5DmuGgOnqfB12Mlw9LmBNh8nw0zvy2Kw3wg%3D%3D%7Ctkp%3ABk9SR-r_o97OYg))
 * RF preamp (NF Corporation, preamp 0.5dB, https://www.nfcorp.co.jp/english/pro/mi/loc/pre/sa_sp/index.html)
 * Power supply for RF preamp DC, 15V 2A (e.g., Agilent E3610A)
-* RF power amplifier (TODO: add model currently used)
+* Directional Coupler ZABDC50-51HP+ (https://www.minicircuits.com/WebStore/dashboard.html?model=ZABDC50-51HP%2B)
+* RF power amplifier: The scanner currently uses a prefabricated RFPA. See attached Excel file for components for the home-built RFPA
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/64d00181-425c-4ddb-a569-3298ee33636d" width="400"/>
