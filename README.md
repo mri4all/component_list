@@ -19,8 +19,8 @@
 
 ## Magnet
 
-* 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (source: BINIC MAGNET Co., http://binicmagnet.com)
-* 300x N40UH magnets for passive shim, 3mm (source: BINIC MAGNET Co., http://binicmagnet.com)
+* 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (source: BINIC MAGNET Co., http://www.binicmagnet.com)
+* 300x N40UH magnets for passive shim, 3mm (source: BINIC MAGNET Co., http://www.binicmagnet.com)
 * Plastic and brass screws to combine magnet rings and attach housing (TODO: add screw types)
   
 <p align="left">
