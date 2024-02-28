@@ -1,7 +1,7 @@
 # Component List for MRI4ALL Zeugmatron Z1
 
 > [!IMPORTANT]
-> The list of components is still being updated and incomplete. We will also try to add supplier information.
+> The list of components is still being updated. Please also check the attached [Excel file](https://github.com/mri4all/component_list/blob/main/i2i%20Hackathon%20MRI4all%202023%20PARTS%20ORDERING.xlsx)
 
 ## Housing and Ringformer
 
@@ -21,7 +21,7 @@
 
 * 1000x N40UH magnets, 12.7 x 12.7 x 12.7 mm (source: BINIC MAGNET Co., http://www.binicmagnet.com)
 * 300x N40UH magnets for passive shim, 3mm (source: BINIC MAGNET Co., http://www.binicmagnet.com)
-* Plastic and brass screws to combine magnet rings and attach housing (TODO: add screw types)
+* Plastic and brass screws to combine magnet rings and attach housing
   
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/996bb5ee-00f0-4bbd-896e-b73a58938859" width="400"/>
@@ -72,8 +72,8 @@
   
 ## RF Hardware
 
-* Wire and components for RF coil (TODO: add specs)
-* RF preamp (TODO: add model)
+* Litze wire for RF coil (1725/48 AWG, 60 feet, [eBay offer](https://www.ebay.com/itm/155092916268?hash=item241c42182c:g:oiEAAOSwL1tj5VZF&amdata%5B%E2%80%A6%5DmuGgOnqfB12Mlw9LmBNh8nw0zvy2Kw3wg%3D%3D%7Ctkp%3ABk9SR-r_o97OYg))
+* RF preamp (NF Corporation, preamp 0.5dB, https://www.nfcorp.co.jp/english/pro/mi/loc/pre/sa_sp/index.html)
 * Power supply for RF preamp DC, 15V 2A (e.g., Agilent E3610A)
 * RF power amplifier (TODO: add model currently used)
 
