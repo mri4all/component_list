@@ -74,7 +74,7 @@
 ## RF Hardware
 
 * 3D-printed holder with imprint for wire position
-* Litze wire for RF coil (1725/48 AWG, 60 feet, [eBay offer](https://www.ebay.com/itm/155092916268?hash=item241c42182c:g:oiEAAOSwL1tj5VZF&amdata%5B%E2%80%A6%5DmuGgOnqfB12Mlw9LmBNh8nw0zvy2Kw3wg%3D%3D%7Ctkp%3ABk9SR-r_o97OYg))
+* Litz wire for RF coil (1725/48 AWG, 60 feet, [eBay offer](https://www.ebay.com/itm/155092916268?hash=item241c42182c:g:oiEAAOSwL1tj5VZF&amdata%5B%E2%80%A6%5DmuGgOnqfB12Mlw9LmBNh8nw0zvy2Kw3wg%3D%3D%7Ctkp%3ABk9SR-r_o97OYg))
 * RF preamp (NF Corporation, preamp 0.5dB, https://www.nfcorp.co.jp/english/pro/mi/loc/pre/sa_sp/index.html)
 * Power supply for RF preamp DC, 15V 2A (e.g., Agilent E3610A)
 * Directional Coupler ZABDC50-51HP+ (https://www.minicircuits.com/WebStore/dashboard.html?model=ZABDC50-51HP%2B)
