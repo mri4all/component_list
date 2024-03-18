@@ -58,7 +58,7 @@
 * Superglue, epoxy, Kapton tape
 * Gradient Power Amplifier GPA-FHDO (https://github.com/menkueclab/GPA-FHDO)
 * DAC-Hat for Red Pitaya board (TODO: add source)
-* Powersupply for GPA, needs DC 15V and 40A (e.g. Rohde & Schwarz HMP4040 (~ 3k) or TekPower TP1560E DC for ~ $400)
+* Powersupply for GPA, needs DC 15V and 40A (e.g. Rohde & Schwarz HMP4040 for ~ 3k, or TekPower TP1560E DC for ~ $400)
 * DC feedthrough capacitor for filtering gradient waveforms (6x Schaffner FN7563-63-M6, https://www.digikey.com/en/products/detail/schaffner-emc-inc/FN7563-63-M6/1997367)
 * Inductors for filtering gradient waveforms (6x 4044-CPER3231-101MC-ND, https://www.digikey.com/en/products/detail/codaca/CPER3231-101MC/16516449)
 * Holder for filter capacitors (e.g., fabricated from aluminium plate)
@@ -89,7 +89,7 @@
 
 * Red Pitaya SDRLab 122-16 (https://redpitaya.com/product/sdrlab-122-16-standard-kit/)
 * Computer with Ubuntu Linux 22.04 LTS (e.g., Dell Optiplex 7010 Micro)
-* Additional USB ethernet interface to have connections for Red Pitaya and local network
+* Additional USB ethernet interface to have two connections for Red Pitaya and local network (allowing remote access)
 * Console software (https://github.com/mri4all/console -- see instructions in Wiki)
 
 <p align="left">
