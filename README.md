@@ -78,7 +78,7 @@
 * RF preamp (NF Corporation, preamp 0.5dB, https://www.nfcorp.co.jp/english/pro/mi/loc/pre/sa_sp/index.html)
 * Power supply for RF preamp DC, 15V 2A (e.g., Agilent E3610A)
 * Directional Coupler ZABDC50-51HP+ (https://www.minicircuits.com/WebStore/dashboard.html?model=ZABDC50-51HP%2B)
-* RF power amplifier: The scanner currently uses a prefabricated RFPA. See attached Excel file for components for the home-built RFPA
+* RF power amplifier: The scanner currently uses a commercial RFPA (TOMCO BT00250-AlphaS). See attached Excel file for components for the custom-built RFPA.
 
 <p align="left">
   <img src="https://github.com/mri4all/components_list/assets/35747793/64d00181-425c-4ddb-a569-3298ee33636d" width="400"/>
@@ -99,7 +99,7 @@
 
 ## Other
 
-* Silicone tube & heat exchanger for cooling system (TOOD: add model/specs)
+* Silicone tube (1/4 inch outer diameter) & heat exchanger for cooling system (e.g., https://www.thermaltake.com/pacific-r360-water-cooling-kit.html or similar)
 * Movable cart for scanner and support hardware (e.g., https://www.amazon.com/Rubbermaid-Commercial-Products-Manufacturing-FG452500BLA/dp/B006O0PMTY/)
 * Terminal kit with crimp tool (source: [Digikey](https://www.digikey.com/en/products/detail/eclipse-tools/902-498/13896374?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-13896374_sig-Cj0KCQjwmvSoBhDOARIsAK6aV7h0vI2_v9fqJMmXuV5ySblh5_aOWlClr3i6Wl64B_U2nzzUUBVPsnIaAhvaEALw_wcB&gclid=Cj0KCQjwmvSoBhDOARIsAK6aV7h0vI2_v9fqJMmXuV5ySblh5_aOWlClr3i6Wl64B_U2nzzUUBVPsnIaAhvaEALw_wcB))
 
